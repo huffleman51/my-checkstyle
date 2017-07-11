@@ -1,0 +1,7 @@
+^\Q/*\E$
+^\Q * Copyright (c) \E20\d\d\Q, Liberty Mutual\E$
+^\Q * Proprietary and Confidential\E$
+^\Q * All Rights Reserved\E$
+^\Q */\E$
+^$
+^.*$
